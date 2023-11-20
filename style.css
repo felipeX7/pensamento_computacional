@@ -73,7 +73,27 @@ h2,h3{
 
     .mapa{
         width: 900px;
-        margin:0auto
+        margin:0auto;
+    }
+    .beneficios{
+        padding: 3em 0;
+
+    }
+
+    .conteudo-beneficios{
+        width: 640px;
+        margin:10px auto;
+    }
+
+    .lsta-benefios{
+        width: 45%;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .itens{
+        line-height: 1.2;
+        
     }
    text-align: center;
    font-size: 30px;
