@@ -27,7 +27,7 @@ nav{
 }
 
 nav li{
-    display: inline:
+    display: inline;
     margin-left 15px
 
 }
@@ -44,6 +44,10 @@ nav a{
      text-transform: uppercase;
 }
 
+#banner{
+    width:100%;
+height:auto;
+}
 body{
     background-color: red;
 }
@@ -53,6 +57,24 @@ p{
    text-align: justify;
 }
 h2,h3{
+    #utensilios:hover{
+        transition: 0,5s;
+        box-shadow: 3px 3px 2px #473e3b ;
+        fill-opacity: 75%;
+    }
+    >localização{
+        padding:3rem0;
+
+    }
+    .localizacao{
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+    .mapa{
+        width: 900px;
+        margin:0auto
+    }
    text-align: center;
    font-size: 30px;
    text-transform: uppercase;
